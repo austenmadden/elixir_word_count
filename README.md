@@ -1,6 +1,6 @@
 # WordCount
 
-**TODO: Add description**
+Elixir command line application that counts words.
 
 ## Installation
 
