@@ -8,7 +8,7 @@ defmodule WordCount do
   end
 
   def process(options) do
-    FileReader.print_counts(options[:file])
+    FileReader.count_words(options[:file])
   end
 
   defp parse_args(args) do
